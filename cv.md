@@ -18,8 +18,8 @@ I'm a motivated student, who is ready for self-education, under the supervision 
 No work experience.
 
 Student of BSUIR. Also successfully completed courses:
-[Learn HTML](https://www.codecademy.com/learn/learn-html)
-[Learn CSS](https://www.codecademy.com/learn/learn-css)
+* [Learn HTML](https://www.codecademy.com/learn/learn-html)
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
 
 **English Level** 
 
