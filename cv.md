@@ -6,7 +6,7 @@
 
 **Summary**
 
-I'm a motivated student, who is ready for self-education, under the supervision of a mentor. I'm always interested in algorithms and programming. Personally i believe that technology is the future and I want to be part of those who create it.
+I'm a motivated student who is ready for self-education under the supervision of a mentor. I'm always interested in algorithms and programming. Personally i believe that technology is the future and I want to be part of those who creates.
 
 **Skills**
 
