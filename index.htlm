@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV Junior Web Developer</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Joe Bloggs."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+
+</head>
+<body id="top">
+<div id="cv" class="insta-fade">
+	<div class="main-details">
+		<div id="headshot">
+			<img src="headshot.jpg" alt="Yuliya Kuzmich" />
+		</div>
+		
+		<div id="name">
+			<h1>Yuliya Kuzmich</h1>
+			<h2>CV</h2>
+		</div>
+		
+		<div id="contact-details">
+			<ul>
+				<li>e: <a href="mailto:kuzaka247872@gmail.com">kuzaka247872@gmail.com</a></li>
+				<li>g: <a href="https://github.com/Kuzzzya99/">github.com/Kuzzzya99/</a></li>
+				<li>m: <a href="tel: +375336443808">+375336443808</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="main-area">
+		<section>
+			<article>
+				<div class="section-title">
+					<h1>Summary</h1>
+				</div>
+				
+				<div class="section-content">
+					<p>I’m a motivated student who is ready for self-education under the supervision of a mentor. I’m always interested in algorithms and programming. Personally i believe that technology is the future and I want to be part of those who creates.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="section-title">
+				<h1>Study</h1>
+			</div>
+			
+			<div class="section-content">				
+				<article>
+					<h2>BSUIR</h2>
+					<p class="sub-details">2017-2021</p>
+					<p>My speciality is "Artificial Intelligence"</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="section-title">
+				<h1>Skills</h1>
+			</div>
+			
+			<div class="section-content">
+				<ul class="key-skills">
+					<li>Basics CSS, HTML, JavaScript</li>
+					<li>C++ and Java</li>
+					<li>Git</li>
+					<li>LaTeX</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="section-title">
+				<h1>Complited courses</h1>
+			</div>
+			
+			<div class="section-content">
+				<ul class="keySkills">
+				<li><a href="https://www.codecademy.com/learn/learn-html">Learn HTML</a></li>
+				<li><a href="https://www.codecademy.com/learn/learn-css">Learn CSS</a></li>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+
+</body>
+</html>
